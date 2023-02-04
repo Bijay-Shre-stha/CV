@@ -1,0 +1,159 @@
+body{
+    border-color: red;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: black;
+}
+h1{
+    border-radius: 15px;
+    text-align: center;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    border-radius: 15px;
+    border: 3px solid red;
+}
+
+div1{
+    float:  right;
+    background-color: red;
+    border-radius: 15px;
+    border-color: red;
+}
+h2{
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    background-color: red;
+    height: 90px;
+    width: 90px;
+    font-family: 'Courier New', Courier, monospace;
+    transition: width 2s;
+}
+h2:hover{
+    width: 1300px;
+}
+.div2{
+    background-color: black;
+    border-radius: 15px;
+    border-color: red;
+    padding: 10px;
+    margin: 10px;
+}
+button{
+    border-radius: 15px;
+    border-color: red;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    transition: width 2s;
+    background-color: black;
+    color: white;
+}
+table{
+    width: 100%;
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+    border-color: red;
+    padding: 10px;
+    margin: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    transition: width 2s;
+    background-color: black;   
+}
+
+table:hover{
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+    border-color: red;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    transition: width 2s;
+    background-color: black;
+    width: 1300px;
+}
+tr{
+    align-items: center;
+    width: 200px;
+    background-color: black;
+    border-radius: 15px;
+    border-color: red;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    transition: width 2s;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+}
+th{
+    align-items: center;
+    width: 100px;
+    background-color: black;
+    align-items: center;
+    background-color: black;
+    border-radius: 50px;
+    border-color: red;
+    padding: 30px;
+    margin: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    border-radius: 15px;
+    border-width: 2px;
+    border-style: solid;
+}
+td{
+    align-items: center;
+    background-color: black;
+    border-radius: 50px;
+    border-color: red;
+    padding: 20px;
+    margin: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    border-radius: 15px;
+    border-width: 2px;
+    border-style: solid;
+}
+.checked {
+    color: orange;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50px;
+    width: 100 px;
+    }
+    
+    .fa-map-marker{
+    background: red;
+    color: white;
+    }
+    .fa-facebook {
+    background: red;
+    color: white;
+    }
+    .fa-instagram {
+    background: red;
+    color: white;
+    }
+    .fa-google {
+    background: red;
+    color: white;
+    }
+    .fa-linkedin{
+        background: red;
+        color: white;
+    }
